@@ -5,7 +5,7 @@ public class B extends A {
     }
 
     public String m4(String i) {
-        return "B4";
+        return "HELLOO?";
     }
     public String m5() {
         return "B5";
