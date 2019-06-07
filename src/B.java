@@ -1,7 +1,7 @@
 public class B extends A {
     @Override
     public String m4() {
-        return super."OOOOOOO";
+        return super.m4();
     }
 
     public String m4(String i) {
